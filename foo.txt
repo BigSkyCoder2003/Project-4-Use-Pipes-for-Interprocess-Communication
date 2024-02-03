@@ -1,0 +1,10 @@
+total 36
+drwxrwxrwx 1 bigskycoder2003 bigskycoder2003  4096 Feb  3 12:50 .
+drwxrwxrwx 1 bigskycoder2003 bigskycoder2003  4096 Feb  3 11:00 ..
+drwxrwxrwx 1 bigskycoder2003 bigskycoder2003  4096 Feb  3 11:00 .git
+-rwxrwxrwx 1 bigskycoder2003 bigskycoder2003   185 Jan 21 17:35 Makefile
+-rwxrwxrwx 1 bigskycoder2003 bigskycoder2003     0 Feb  3 12:50 foo.txt
+-rwxrwxrwx 1 bigskycoder2003 bigskycoder2003 16264 Feb  3 12:49 redirout
+-rwxrwxrwx 1 bigskycoder2003 bigskycoder2003   501 Feb  3 12:49 redirout.c
+-rwxrwxrwx 1 bigskycoder2003 bigskycoder2003 16232 Feb  3 12:48 weregoingtowriteaprogram
+-rwxrwxrwx 1 bigskycoder2003 bigskycoder2003   799 Feb  3 12:02 weregoingtowriteaprogram.c
